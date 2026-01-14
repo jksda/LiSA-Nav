@@ -103,11 +103,6 @@ body {
   padding: 0.5rem !important;
 }
 
-.teaser .hero-body {
-  padding-top: 2rem;
-  padding-bottom: 4rem;
-}
-
 .teaser {
   font-family: 'Inter', sans-serif;
 }
@@ -118,7 +113,6 @@ body {
     font-family: 'Inter', sans-serif !important;
     font-weight: 800 !important;
     color: var(--text-primary) !important;
-    margin-bottom: 2rem !important;
     line-height: 1.1 !important;
 }
 
